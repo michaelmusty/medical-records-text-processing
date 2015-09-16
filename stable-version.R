@@ -10,7 +10,6 @@
 #    \:\__\
 #     \/__/
 #################################################
-
 # global POSIX character patterns
 pattern_MRN = "[[:digit:]]{8}-[[:digit:]]{1}"
 # pattern_BiopsyNum = "[[:upper:]]{2}-[[:digit:]]{2}-[[:digit:]]{5}"
